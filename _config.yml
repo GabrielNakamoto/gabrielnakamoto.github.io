@@ -21,7 +21,7 @@
 title: Manifold Ramblings
 email: gabriel@nakamoto.ca
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gabrielnakamoto.github.io" # the base hostname & protocol for your site
 github_username:  GabrielNakamoto
 
 # Build settings
